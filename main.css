@@ -1,0 +1,22 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
+@import url('https://fonts.googleapis.com/css2?family=My+Soul&display=swap');
+
+
+
+.fakeimg img {
+    width: 200px;
+}
+
+h1, h2, h5 {
+   font-family: 'My Soul', cursive;
+}
+
+.col-sm-8 img {
+    width: 290px;
+}
+
+p{
+ font-family: 'Lobster', cursive; 
+    font-size: 18px;
+}
